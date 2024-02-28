@@ -14,6 +14,6 @@ function sammenliknKortEtterTall(kortA, kortB) {
     return tallA - tallB
 }
 
-//Skal sammenligne strenger som ser slik ut:
+// Skal sammenligne strenger som ser slik ut:
 //  "1_of_clubs"
 //  "12_of_spades"
