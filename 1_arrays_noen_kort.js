@@ -15,6 +15,6 @@ addCards(cards)
 
 // Sorter kortene, og legg til i rosa section:
 cards.sort(sammenliknKortEtterTall)
-addSection("pink")
+addSection("red")
 addCards(cards)
 
